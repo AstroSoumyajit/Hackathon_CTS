@@ -40,7 +40,7 @@ public class loginSignup extends BasePage {
 	
 	// Actions
 	
-	public void loginSignup() throws IOException, InterruptedException {
+	public void loginSignup1() throws IOException, InterruptedException {
 		
 		login_btn.click();
 		//google_btn.click();

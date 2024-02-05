@@ -14,6 +14,6 @@ public class TC_003_LoginSignUp extends TC_002_usedCars {
 	public void sign() throws IOException, InterruptedException {
 		loginSignup obj = new loginSignup(driver);
 		logger.info("****Trying to login and capturing the error message****");
-		obj.loginSignup();
+		obj.loginSignup1();
 	}
 }
