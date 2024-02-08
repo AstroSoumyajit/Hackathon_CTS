@@ -3,7 +3,7 @@
 <suite thread-count="2" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="2" name="chrometest(failed)">
     <parameter name="os" value="Windows"/>
-    <parameter name="browser" value="edge"/>
+    <parameter name="browser" value="chrome"/>
     <groups>
       <run>
         <include name="Master"/>
@@ -13,8 +13,10 @@
       <class name="testCases.TC_003_LoginSignUp">
         <methods>
           <include name="tearDown"/>
+          <include name="upcomingBikes"/>
           <include name="setup"/>
           <include name="sign"/>
+          <include name="usedCars"/>
         </methods>
       </class> <!-- testCases.TC_003_LoginSignUp -->
     </classes>

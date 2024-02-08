@@ -174,3 +174,15 @@
 13:39:36.785 [main] INFO  testCases.TC_003_LoginSignUp - ****Getting the popular car names****
 13:40:00.447 [main] INFO  testCases.TC_003_LoginSignUp - ****Navigating to the home page****
 13:40:35.870 [main] INFO  testCases.TC_003_LoginSignUp - ****Trying to login and capturing the error message****
+15:04:16.338 [main] INFO  testCases.TC_003_LoginSignUp - ****Clicking on up coming bikes****
+15:04:16.556 [main] INFO  testCases.TC_003_LoginSignUp - ****Clicking on the used cars drop down and clicking on chennai****
+15:04:16.627 [main] INFO  testCases.TC_003_LoginSignUp - ****Trying to login and capturing the error message****
+10:37:58.488 [main] INFO  testCases.TC_003_LoginSignUp - ****Clicking on up coming bikes****
+10:38:35.752 [main] INFO  testCases.TC_003_LoginSignUp - ****Selecting bike manufacturer as Honda****
+10:39:25.688 [main] INFO  testCases.TC_003_LoginSignUp - ****Scrolling the page****
+10:39:32.697 [main] INFO  testCases.TC_003_LoginSignUp - ****Printing the bike details****
+10:39:40.346 [main] INFO  testCases.TC_003_LoginSignUp - ****Navigating to home page****
+10:40:16.507 [main] INFO  testCases.TC_003_LoginSignUp - ****Clicking on the used cars drop down and clicking on chennai****
+10:40:54.215 [main] INFO  testCases.TC_003_LoginSignUp - ****Getting the popular car names****
+10:41:21.161 [main] INFO  testCases.TC_003_LoginSignUp - ****Navigating to the home page****
+10:41:25.571 [main] INFO  testCases.TC_003_LoginSignUp - ****Trying to login and capturing the error message****
